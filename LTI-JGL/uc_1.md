@@ -1,4 +1,4 @@
-**[Volver a los casos de uso](./uc_0.moc.md)
+**[< Volver a los casos de uso](./uc_0.moc.md)**
 
 # Proceso de publicación y gestión de ofertas
 
