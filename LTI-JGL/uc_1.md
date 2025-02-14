@@ -1,6 +1,21 @@
-**[Casos de uso](./uc_0.moc.md) | [Historias de usuario](./us_0.moc.md)**
+**[Volver a los casos de uso](./uc_0.moc.md)
 
 # Proceso de publicación y gestión de ofertas
+
+## Tabla de Contenidos
+- [Descripción general](#descripción-general)
+- [Objetivo](#objetivo)
+- [Funcionalidades clave](#funcionalidades-clave)
+  - [Generación inteligente de contenido](#generación-inteligente-de-contenido)
+  - [Optimización multicanal](#optimización-multicanal)
+  - [Gestión centralizada](#gestión-centralizada)
+- [Beneficios esperados](#beneficios-esperados)
+  - [Para recruiters](#para-recruiters)
+  - [Para la empresa](#para-la-empresa)
+  - [Para candidatos](#para-candidatos)
+- [Integraciones](#integraciones)
+- [Métricas de éxito](#métricas-de-éxito)
+- [Historias de usuario](#historias-de-usuario)
 
 ## Descripción general
 El proceso de publicación y gestión de ofertas es un componente crítico del sistema LTI que busca revolucionar cómo las empresas crean, optimizan y gestionan sus ofertas de trabajo. Este módulo aprovecha la IA avanzada para automatizar y mejorar cada aspecto del proceso de publicación de ofertas.
@@ -59,3 +74,5 @@ Simplificar y optimizar el proceso end-to-end de creación y gestión de ofertas
 - Calidad de aplicaciones recibidas
 - Engagement con las publicaciones
 - ROI de las publicaciones pagadas
+
+## Historias de usuario
