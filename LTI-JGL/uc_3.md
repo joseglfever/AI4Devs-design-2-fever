@@ -1,4 +1,4 @@
-**[< Volver a los casos de uso](./uc_0.moc.md) | [Ir a las historias de usuario](./us_30.moc.md)
+**[< Volver a los casos de uso](./uc_0.moc.md) | [Ir a las historias de usuario](./us_30.moc.md)**
 
 # Portal del candidato
 
@@ -90,4 +90,4 @@ Proporcionar una experiencia excepcional al candidato que maximice el engagement
 - Engagement con comunicaciones
 - Satisfacción general del candidato
 
-**[< Volver a los casos de uso](./uc_0.moc.md) | [Ir a las historias de usuario](./us_30.moc.md)
+**[< Volver a los casos de uso](./uc_0.moc.md) | [Ir a las historias de usuario](./us_30.moc.md)**

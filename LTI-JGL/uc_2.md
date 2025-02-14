@@ -1,4 +1,4 @@
-**[< Volver a los casos de uso](./uc_0.moc.md) | [Ir a las historias de usuario](./us_20.moc.md)
+**[< Volver a los casos de uso](./uc_0.moc.md) | [Ir a las historias de usuario](./us_20.moc.md)**
 
 # Evaluación de candidatos con IA
 
@@ -89,4 +89,4 @@ Transformar el proceso de evaluación de candidatos haciéndolo más objetivo, e
 - Satisfacción de hiring managers
 - Tasa de retención de contratados
 
-**[< Volver a los casos de uso](./uc_0.moc.md) | [Ir a las historias de usuario](./us_20.moc.md)
+**[< Volver a los casos de uso](./uc_0.moc.md) | [Ir a las historias de usuario](./us_20.moc.md)**

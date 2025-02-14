@@ -1,4 +1,4 @@
-**[< Volver a los casos de uso](./uc_0.moc.md) | [Ir a las historias de usuario](./us_10.moc.md)
+**[< Volver a los casos de uso](./uc_0.moc.md) | [Ir a las historias de usuario](./us_10.moc.md)**
 
 # Proceso de publicación y gestión de ofertas
 
@@ -75,4 +75,4 @@ Simplificar y optimizar el proceso end-to-end de creación y gestión de ofertas
 - Engagement con las publicaciones
 - ROI de las publicaciones pagadas
 
-**[< Volver a los casos de uso](./uc_0.moc.md) | [Ir a las historias de usuario](./us_10.moc.md)
+**[< Volver a los casos de uso](./uc_0.moc.md) | [Ir a las historias de usuario](./us_10.moc.md)**
