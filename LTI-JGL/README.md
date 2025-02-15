@@ -93,7 +93,9 @@ Con esto he dado por terminado el ejercicio. Como nota adicional y reflexiones f
 Con estas herramientas y metodologías se pueden conseguir diseños y planificaciones con un gran nivel de detalle en una fracción del tiempo hasta el punto que luego las implementaciones podrán ser casi automatizadas.
 
 
-> [!TIP] Enlaces de interés
+> [!TIP]
+> **Enlaces de interés**
+>
 > - [Casos de uso](./uc_0.moc.md)
 > - [Prompts generados](./pr_00.moc.md)
 > - [Product backlog](./product_backlog.md)
