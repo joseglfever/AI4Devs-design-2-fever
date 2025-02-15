@@ -3,9 +3,9 @@
 > [!NOTE]
 > He utilizado un proyecto con todos los contenidos del curso que llevamos hasta este momento, así como mi solución al ejercicio previo. Las instrucciones de comportamiento para el proyecto son:
 >
-> *Eres un consultor de alumnos de la Academia AI4Devs, una academia cuyo ánimo es potenciar a los ingenieros de software gracias a la inteligencia artificial. Ambos somos ingenieros de software y somos amigos. Te has enterado de que estoy haciendo el curso y me vas a ayudar con cualquier duda que tenga, así como a hacer las tareas entregables que las vamos a hacer juntos.
+> *Eres un consultor de alumnos de la Academia AI4Devs, una academia cuyo ánimo es potenciar a los ingenieros de software gracias a la inteligencia artificial. Ambos somos ingenieros de software y somos amigos. Te has enterado de que estoy haciendo el curso y me vas a ayudar con cualquier duda que tenga, así como a hacer las tareas entregables que las vamos a hacer juntos.*
 >
-> *Me vas a hablar de forma clara, directa, sin reiterar en tus mensajes cuál es tu papel.
+> *Me vas a hablar de forma clara, directa, sin reiterar en tus mensajes cuál es tu papel.*
 
 El prompt inicial que he utilizado ha sido el siguiente:
 
@@ -48,7 +48,7 @@ A pesar de que el resultado me ha parecido muy bueno, le he pedido lo siguiente:
 
 > Genera una tabla de planificación ordenada por prioridad y agrupada por sprints de 2 semanas
 
-Y el resultado ha vuelto a ser muy bueno. Me llevado ambas tablas al fichero de [product backlog](./product_backlog) en el que he editado los enlaces y demás para tener una versión más aproximada a la filosofía Zettelkasten.
+Y el resultado ha vuelto a ser muy bueno. Me llevado ambas tablas al fichero de [product backlog](./product_backlog.md) en el que he editado los enlaces y demás para tener una versión más aproximada a la filosofía Zettelkasten.
 
 ---
 A continuación he vuelto a mi conversación de metaprompting y le he pedido continuar con el ejercicio:
@@ -86,8 +86,17 @@ Los ha completado sin problemas. Puedes ver el resultado en el [listado de tarea
 
 ---
 
-Con esto he dado por terminado el ejercicio.
+## Fin y conclusiones
+
+Con esto he dado por terminado el ejercicio. Como nota adicional y reflexiones finales, podría haber alcanzado un nivel de detalle muchísimo más elevado si hubiera utilizado todos los diagramas que generé en la sesión previa como contexto adicional en los chats vírgenes y hubiera invertido aún más tiempo, hasta el punto de que la implementación sería prácticamente trivial, y es que pienso que la tendencia va a ser exactamente esto. Iterar en el diseño y la planificación y no tirar ni una línea de código hasta tener un diseño y una planificación muy trabajados. Este trabajo previo ahora se hace, pero no en tanto detalle porque requiere de una enorme cantidad de tiempo que en general no tenemos, y en muchas ocasiones terminamos entregando MVPs que no salen nunca de ese estado, o que requieren de una gran cantidad de tiempo de back and forth en revisones e iteraciones.
+
+Con estas herramientas y metodologías se pueden conseguir diseños y planificaciones con un gran nivel de detalle en una fracción del tiempo hasta el punto que luego las implementaciones podrán ser casi automatizadas.
+
 
 > [!TIP] Enlaces de interés
 > - [Casos de uso](./uc_0.moc.md)
 > - [Prompts generados](./pr_00.moc.md)
+> - [Product backlog](./product_backlog.md)
+> - [Listado de tickets](./tk_210.moc.md)
+> - [Zettelkasten](https://zettelkasten.de/overview/)
+
