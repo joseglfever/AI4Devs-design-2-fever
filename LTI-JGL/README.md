@@ -19,9 +19,9 @@ Aquí me ha presentado un [prompt](./pr_01.md) que si bien tenía buena pinta, n
 
 > Me gusta la estructura, pero tiene pinta de plantilla nada más no te parece?
 
-Y ahora ha generado un [prompt mucho más detallado](./pr_02.md) enfocado a LTI. Ya que estaba con metaprompting quería que el [prompt generado](./pr_02) tuviera el contexto necesario y la información suficiente para generar buenos casos de uso sin necesidad de tener todo el contenido previo.
+Y ahora ha generado un [prompt mucho más detallado](./pr_02.md) enfocado a LTI. Ya que estaba con metaprompting quería que el [prompt generado](./pr_02.md) tuviera el contexto necesario y la información suficiente para generar buenos casos de uso sin necesidad de tener todo el contenido previo.
 
-Con ese [prompt](./pr_02) me he ido a una conversación virgen y se lo he pegado tal cual. El resultado me ha parecido muy bueno ya que me ha generado los 3 [casos de uso](./uc_0.moc.md) con sus historias de usuario. El único problema ha sido que los ha generado todos juntos y los casos de uso solo tenían el título, por lo que le he pedido lo siguiente:
+Con ese [prompt](./pr_02.md) me he ido a una conversación virgen y se lo he pegado tal cual. El resultado me ha parecido muy bueno ya que me ha generado los 3 [casos de uso](./uc_0.moc.md) con sus historias de usuario. El único problema ha sido que los ha generado todos juntos y los casos de uso solo tenían el título, por lo que le he pedido lo siguiente:
 
 > Haz una descripción de cada caso de uso. Hazlo en formato markdown, un fichero por cada caso de uso que contenga el título así como la descripción del mismo.
 
@@ -93,7 +93,7 @@ Con esto he dado por terminado el ejercicio. Como nota adicional y reflexiones f
 Con estas herramientas y metodologías se pueden conseguir diseños y planificaciones con un gran nivel de detalle en una fracción del tiempo hasta el punto que luego las implementaciones podrán ser casi automatizadas.
 
 
-> [!TIP]
+> [!TIP Enlaces de interés]
 > **Enlaces de interés**
 >
 > - [Casos de uso](./uc_0.moc.md)
